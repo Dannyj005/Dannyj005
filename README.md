@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Daniela 👋
 
-<!--
-**Dannyj005/Dannyj005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student building real-world applications with a focus on
+web development, JavaFX desktop systems, and backend fundamentals.
 
-Here are some ideas to get you started:
+### 🔭 Current Focus
+- Building JavaFX applications with authentication & database support  
+- Strengthening core CS concepts (OS, networks, algorithms)  
+- Improving full-stack skills with JavaScript, PHP & Laravel  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+- **Branch Manager (JavaFX + SQLite)**  
+  A desktop system for managing drink sales across multiple branches.
+
+- **React Portfolio Website**  
+  A responsive personal website showcasing my projects and skills.
+
+- **Shopping Cart App (JS + LocalStorage)**  
+  A dynamic cart system with real product data and state persistence.
+
+### 🧰 Core Stack
+- **Languages:** Java, JavaScript, PHP, Python, C++
+- **Frameworks:** JavaFX, Laravel, React  
+- **Databases:** SQLite, MySQL  
+- **Tools:** Git, VS Code, Figma, Postman  
+
+### 🌱 Currently Learning
+- Routing protocols & computer networks  
+- Operating systems (paging, scheduling, memory mgmt)  
+- Data structures & algorithms
+- Building Websites
+
+### 📫 How to reach me
+- Email: danielajones341@gmail.com
+- GitHub: *https://github.com/Dannyj005 
+
+---
